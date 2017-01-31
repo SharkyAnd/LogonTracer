@@ -1,0 +1,1 @@
+InstallUtil LogonTracer\bin\Debug\LogonTracer.exe
